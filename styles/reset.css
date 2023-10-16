@@ -1,0 +1,6 @@
+/*mantendo padrão em todas as paginas para a tirar o default dos browsers*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
